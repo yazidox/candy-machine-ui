@@ -3,6 +3,9 @@
   "version": "0.3.0",
   "private": true,
   "license": "Apache-2.0",
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "@babel/runtime": "^7.15.5",
     "@civic/solana-gateway-react": "^0.10.0",
