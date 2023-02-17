@@ -1,14 +1,14 @@
-body {
-  background: #000000;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+html {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, Poppins;
+  background: url('https://dead-burn.vercel.app/_next/static/media/bg.1a820328.png') no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100vh;
 }
